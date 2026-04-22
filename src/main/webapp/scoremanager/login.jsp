@@ -59,7 +59,7 @@
 						<div class="form-check mt-3">
 							<label class="form-check-label" for="password-display">
 								<input class="form-check-input" id="password-display" name="chk_d_ps" type="checkbox" />
-								パスワードを表示
+								パスワードを表示？
 							</label>
 						</div>
 					</div>

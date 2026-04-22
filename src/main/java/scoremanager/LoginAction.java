@@ -2,7 +2,6 @@ package scoremanager;
 
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-
 import tool.Action;
 
 public class LoginAction extends Action {
@@ -23,6 +22,7 @@ public class LoginAction extends Action {
 		//レスポンス値をセット 6
 		//なし
 		//JSPへフォワード 7
+		//Gitテスト書き込みJava
 		req.getRequestDispatcher("login.jsp").forward(req, res);
 	}
 }
